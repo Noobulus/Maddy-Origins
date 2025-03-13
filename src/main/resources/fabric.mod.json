@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "maddy_origins",
 	"version": "${version}",
-	"name": "Maddy Origins",
+	"name": "Maddy's Origins",
 	"description": "A comprehensive rework of Origins, replacing the stock origins with 9* new, varied origins.",
 	"authors": [
 		"Noobulus"
