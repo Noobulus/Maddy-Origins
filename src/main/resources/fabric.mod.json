@@ -9,9 +9,9 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/maddy-origins",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Noobulus/Maddy-Origins"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/maddy_origins/maddyoriginsiconlarge.png",
 	"environment": "*",
 	"entrypoints": {
@@ -30,13 +30,10 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.16.10",
-		"minecraft": "~1.21.1",
-		"java": ">=21",
-		"fabric-api": "*",
+		"minecraft": "1.21.1",
 		"origins": "1.13.0-alpha.12+mc.1.21.1"
 	},
 	"suggests": {
-		"another-mod": "*"
+		"farmersdelight": "*"
 	}
 }
