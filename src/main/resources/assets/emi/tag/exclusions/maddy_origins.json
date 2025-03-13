@@ -1,0 +1,14 @@
+{
+  "item": [
+    "maddy_origins:berries",
+    "maddy_origins:fruit_products",
+    "maddy_origins:grain_products",
+    "maddy_origins:hydrophilic_drinks",
+    "maddy_origins:hydrophilic_other_drinkables",
+    "maddy_origins:inorganic_prevented_non_foods",
+    "maddy_origins:warm_blocks_user_friendly"
+  ],
+  "fluid": [
+    "maddy_origins:warm_fluids"
+  ]
+}

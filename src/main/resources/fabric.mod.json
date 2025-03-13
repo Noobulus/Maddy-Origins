@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "maddy_origins",
+	"version": "${version}",
+	"name": "Maddy Origins",
+	"description": "A comprehensive rework of Origins, replacing the stock origins with 9* new, varied origins.",
+	"authors": [
+		"Noobulus"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/maddy-origins",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/maddy_origins/maddyoriginsiconlarge.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mod.noobulus.maddyorigins.MaddyOrigins"
+		],
+		"client": [
+			"mod.noobulus.maddyorigins.MaddyOriginsClient"
+		]
+	},
+	"mixins": [
+		"maddy-origins.mixins.json",
+		{
+			"config": "maddy-origins.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"origins": "1.13.0-alpha.12+mc.1.21.1"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
