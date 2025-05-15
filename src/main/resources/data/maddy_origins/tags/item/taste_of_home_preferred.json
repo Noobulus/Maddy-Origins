@@ -1,6 +1,5 @@
 {
     "values": [
-        "#maddy_origins:nether_foods",
         "minecraft:porkchop",
         "minecraft:cooked_porkchop",
         "minecraft:rotten_flesh",
@@ -40,6 +39,182 @@
         },
         {
             "id": "farmersdelight:mushroom_rice",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:nether_salad",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hoglin_loin",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hoglin_sausage",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:roasted_sausage",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hotdog",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:sausage_and_potatoes",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:breakfast_sampler",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:cooked_loin",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:blue_tenderloin_steak",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:red_loin_on_a_stick",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:fried_hoglin_chop",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:roast_ear",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:plate_of_stuffed_hoglin_snout",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:plate_of_stuffed_hoglin_ham",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:plate_of_stuffed_hoglin",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:strider_egg",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:boiled_egg",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:deviled_egg",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:strider_slice",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:minced_strider",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:bleeding_tartar",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:strider_with_grilled_fungus",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:strider_stew",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:crimson_stroganoff",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:plate_of_striderloaf",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:plate_of_cold_striderloaf",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:ghast_dough",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:ghasta",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:ghast_salad",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:spicy_noodle_soup",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:spicy_cotton",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:plate_of_ghasta_with_cream",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:bullet_pepper",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:spicy_skewer",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:chilidog",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:spicy_hoglin_stew",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hot_wings",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hot_wings_bucket",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:spicy_curry",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:rock_soup",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:burnt_roll",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:magma_cake_slice",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hot_cream",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hot_cream_cone",
             "required": false
         }
     ]

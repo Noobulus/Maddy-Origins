@@ -62,6 +62,26 @@ repositories {
 	maven {
 		url "https://masa.dy.fi/maven"
 	}
+
+	// fd refabricated
+	maven {
+		url "https://repo.greenhouse.house/releases/"
+	}
+	maven {
+		url "https://mvn.devos.one/releases/"
+	} // Porting Lib
+	maven {
+		url "https://maven.jamieswhiteshirt.com/libs-release" // Reach Entity Attributes (Required by Porting Lib)
+		content {
+			includeGroup "com.jamieswhiteshirt"
+		}
+	}
+	maven {
+		url "https://jitpack.io/" // Fabric ASM
+		content {
+			excludeGroup "io.github.fabricators_of_create"
+		}
+	}
 }
 
 loom {
@@ -92,8 +112,15 @@ dependencies {
 	modImplementation("me.shedaniel.cloth:cloth-config-fabric:${project.clothconfig_version}")
 	modImplementation("com.terraformersmc:modmenu:${project.modmenu_version}")
 
-	// emi for utility
-	modLocalRuntime "dev.emi:emi-fabric:${emi_version}"
+	// emi and appleskin for utility
+	modLocalRuntime("dev.emi:emi-fabric:${emi_version}")
+	modLocalRuntime("maven.modrinth:appleskin:${appleskin_version}")
+
+	// compatibility dependencies
+	modLocalRuntime("vectorwing:FarmersDelight:${farmersdelight_version}") {
+		exclude(group: "net.fabricmc")
+	}
+	modLocalRuntime("maven.modrinth:my-nethers-delight-refabricated:${nethersdelight_version}")
 }
 
 processResources {

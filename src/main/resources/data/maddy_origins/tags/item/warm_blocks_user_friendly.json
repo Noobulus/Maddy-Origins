@@ -7,10 +7,22 @@
     "minecraft:furnace",
     "minecraft:blast_furnace",
     "minecraft:smoker",
+    "minecraft:lava_bucket",
     {
       "id": "farmersdelight:stove",
       "required": false
     },
-    "minecraft:lava_bucket"
+    {
+      "id": "mynethersdelight:nether_stove",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:bullet_pepper_crate",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:magma_cake_block",
+      "required": false
+    }
   ]
 }

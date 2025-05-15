@@ -1,7 +1,14 @@
 {
   "values": [
     "#minecraft:fire",
-    "minecraft:magma_block"
+    "minecraft:magma_block",
+    {
+      "id": "mynethersdelight:bullet_pepper_crate",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:magma_cake_block",
+      "required": false
+    }
   ]
 }
- 

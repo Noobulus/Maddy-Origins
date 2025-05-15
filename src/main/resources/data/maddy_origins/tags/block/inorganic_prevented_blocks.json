@@ -1,4 +1,13 @@
 {
     "values": [
+        "minecraft:cake",
+        {
+            "id": "farmersdelight:sweet_berry_cheesecake",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:magma_cake_block",
+            "required": false
+        }
     ]
 } 

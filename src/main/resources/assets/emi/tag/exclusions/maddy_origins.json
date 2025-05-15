@@ -6,7 +6,9 @@
     "maddy_origins:hydrophilic_drinks",
     "maddy_origins:hydrophilic_other_drinkables",
     "maddy_origins:inorganic_prevented_non_foods",
-    "maddy_origins:warm_blocks_user_friendly"
+    "maddy_origins:warm_blocks_user_friendly",
+    "maddy_origins:savory_soups",
+    "maddy_origins:savory_non_soups"
   ],
   "fluid": [
     "maddy_origins:warm_fluids"
