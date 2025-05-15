@@ -89,5 +89,14 @@
             "type": "origins:status_effect",
             "effect": "minecraft:weakness"
         }
+    },
+    "shake_while_curing": {
+        "type": "origins:shaking",
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:un_undead_cure_boolean",
+            "comparison": "==",
+            "compare_to": 1
+        }
     }
 }

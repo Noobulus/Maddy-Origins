@@ -301,5 +301,14 @@
             "comparison": "==",
             "compare_to": 0
         }
+    },
+    "shake_if_score_zero": {
+        "type": "origins:shaking",
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:cold_sensitive_protection_score",
+            "comparison": "==",
+            "compare_to": 0
+        }
     }
 }
