@@ -216,6 +216,26 @@
         {
             "id": "mynethersdelight:hot_cream_cone",
             "required": false
+        },
+        {
+            "id": "brewinandchewin:scarlet_cheese_wedge",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:horror_lasagna",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:scarlet_pierogi",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:ham_and_cheese_sandwich",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:fiery_fondue",
+            "required": false
         }
     ]
 }

@@ -121,6 +121,8 @@ dependencies {
 		exclude(group: "net.fabricmc")
 	}
 	modLocalRuntime("maven.modrinth:my-nethers-delight-refabricated:${nethersdelight_version}")
+	modLocalRuntime("maven.modrinth:pumpkin-pie-delight:${pumpkinpiedelight_version}")
+	modLocalRuntime("umpaz.brewinandchewin:BrewinAndChewin-fabric:${brewinandchewin_version}+${minecraft_version}")
 }
 
 processResources {

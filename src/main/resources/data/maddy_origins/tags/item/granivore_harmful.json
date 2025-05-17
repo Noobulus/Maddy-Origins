@@ -13,6 +13,10 @@
         {
             "id": "farmersdelight:hot_chocolate",
             "required": false
+        },
+        {
+            "id": "brewinandchewin:cocoa_fudge",
+            "required": false
         }
     ]
 }

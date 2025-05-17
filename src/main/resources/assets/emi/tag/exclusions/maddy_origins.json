@@ -8,7 +8,8 @@
     "maddy_origins:inorganic_prevented_non_foods",
     "maddy_origins:warm_blocks_user_friendly",
     "maddy_origins:savory_soups",
-    "maddy_origins:savory_non_soups"
+    "maddy_origins:savory_non_soups",
+    "#maddy_origins:non_food_drinks"
   ],
   "fluid": [
     "maddy_origins:warm_fluids"

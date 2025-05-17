@@ -48,6 +48,14 @@
     {
       "id": "mynethersdelight:rock_soup",
       "required": false
+    },
+    {
+      "id": "brewinandchewin:creamy_onion_soup",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:fiery_fondue",
+      "required": false
     }
   ]
 }

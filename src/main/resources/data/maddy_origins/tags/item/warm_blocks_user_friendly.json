@@ -23,6 +23,10 @@
     {
       "id": "mynethersdelight:magma_cake_block",
       "required": false
+    },
+    {
+      "id": "brewinandchewin:heating_cask",
+      "required": false
     }
   ]
 }

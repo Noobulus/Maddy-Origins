@@ -34,6 +34,18 @@
         {
             "id": "farmersdelight:kelp_roll_slice",
             "required": false
+        },
+        {
+            "id": "brewinandchewin:cheesy_pasta",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:pickled_pickles",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:kippers",
+            "required": false
         }
     ]
 }
