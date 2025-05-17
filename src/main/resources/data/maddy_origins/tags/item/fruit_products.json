@@ -48,6 +48,18 @@
         {
             "id": "brewinandchewin:apple_jelly",
             "required": false
+        },
+        {
+            "id": "nears:soulless_pastry",
+            "required": false
+        },
+        {
+            "id": "nears:glow_salad",
+            "required": false
+        },
+        {
+            "id": "nears:nether_stew",
+            "required": false
         }
     ]
 }

@@ -34,6 +34,7 @@
 		"origins": "1.13.0-alpha.12+mc.1.21.1"
 	},
 	"suggests": {
-		"farmersdelight": "*"
+		"farmersdelight": "*",
+		"appleskin": "*"
 	}
 }

@@ -1,5 +1,6 @@
 {
     "values": [
+        "#minecraft:piglin_food",
         "minecraft:porkchop",
         "minecraft:cooked_porkchop",
         "minecraft:rotten_flesh",
@@ -235,6 +236,34 @@
         },
         {
             "id": "brewinandchewin:fiery_fondue",
+            "required": false
+        },
+        {
+            "id": "nears:soul_berries",
+            "required": false
+        },
+        {
+            "id": "nears:near",
+            "required": false
+        },
+        {
+            "id": "nears:faar",
+            "required": false
+        },
+        {
+            "id": "nears:cinder_sangak",
+            "required": false
+        },
+        {
+            "id": "nears:soulless_pastry",
+            "required": false
+        },
+        {
+            "id": "nears:glow_salad",
+            "required": false
+        },
+        {
+            "id": "nears:nether_stew",
             "required": false
         }
     ]

@@ -1,6 +1,10 @@
  {
   "values": [
-    "#minecraft:fox_food"
+    "#minecraft:fox_food",
+    {
+      "id": "nears:soul_berries",
+      "required": false
+    }
   ]
 }
  

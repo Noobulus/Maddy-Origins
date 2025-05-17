@@ -37,6 +37,10 @@
         {
             "id": "farmersdelight:chocolate_pie_slice",
             "required": false
+        },
+        {
+            "id": "nears:cinder_sangak",
+            "required": false
         }
     ]
 }
