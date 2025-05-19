@@ -5,10 +5,27 @@
     },
     "lava_negates_falls": {
         "condition": {
-            "type": "origins:fluid_height",
-            "fluid": "minecraft:lava",
-            "comparison": "!=",
-            "compare_to": 0
+            "type": "origins:any_of",
+            "conditions": [
+                {
+                    "type": "origins:fluid_height",
+                    "fluid": "minecraft:lava",
+                    "comparison": "!=",
+                    "compare_to": 0
+                },
+                {
+                    "type": "origins:in_block_anywhere",
+                    "block_condition": {
+                        "type": "origins:fluid",
+                        "fluid_condition": {
+                            "type": "origins:in_tag",
+                            "tag": "minecraft:lava"
+                        }
+                    },
+                    "comparison": ">",
+                    "compare_to": 0
+                }
+            ]
         },
         "type": "origins:modify_damage_taken",
         "damage_condition": {
