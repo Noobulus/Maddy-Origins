@@ -20,6 +20,10 @@
         {
             "id": "supplementaries:flax",
             "required": false
+        },
+        {
+            "id": "pearfection:callery_vine",
+            "required": false
         }
     ]
 }
