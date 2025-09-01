@@ -60,6 +60,10 @@
     {
       "id": "nears:nether_stew",
       "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_soup",
+      "required": false
     }
   ]
 }

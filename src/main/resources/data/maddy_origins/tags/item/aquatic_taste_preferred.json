@@ -46,6 +46,22 @@
         {
             "id": "brewinandchewin:kippers",
             "required": false
+        },
+        {
+            "id": "mynethersdelight:hot_cream",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:hot_cream_cone",
+            "required": false
+        },
+        {
+            "id": "rusticdelight:calamari_roll",
+            "required": false
+        },
+        {
+            "id": "rusticdelight:fried_calamari",
+            "required": false
         }
     ]
 }

@@ -124,6 +124,10 @@ dependencies {
 	modLocalRuntime("maven.modrinth:pumpkin-pie-delight:${pumpkinpiedelight_version}")
 	modLocalRuntime("umpaz.brewinandchewin:BrewinAndChewin-fabric:${brewinandchewin_version}+${minecraft_version}")
 	modLocalRuntime("maven.modrinth:nears:${nears_version}")
+	modLocalRuntime("maven.modrinth:rustic-delight:${rusticdelight_version}")
+	modLocalRuntime("maven.modrinth:supplementaries:${supplementaries_version}")
+	modLocalRuntime("maven.modrinth:moonlight:${moonlight_version}")
+
 }
 
 processResources {

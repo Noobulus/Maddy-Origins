@@ -60,6 +60,18 @@
         {
             "id": "nears:nether_stew",
             "required": false
+        },
+        {
+            "id": "pearfection:pear_tart",
+            "required": false
+        },
+        {
+            "id": "rusticdelight:sweet_salad",
+            "required": false
+        },
+        {
+            "id": "rusticdelight:syrup",
+            "required": false
         }
     ]
 }

@@ -245,6 +245,46 @@
     {
       "id": "brewinandchewin:kippers",
       "required": false
+    },
+    {
+      "id": "rusticdelight:stuffed_bell_pepper_green",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:stuffed_bell_pepper_yellow",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:stuffed_bell_pepper_red",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:fried_dumplings",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:spring_rolls",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_pasta",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:fried_calamari",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:fried_chicken",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:fried_mushrooms",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:coffee_braised_beef",
+      "required": false
     }
   ]
 }

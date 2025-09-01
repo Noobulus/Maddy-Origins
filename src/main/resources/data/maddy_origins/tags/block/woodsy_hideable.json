@@ -16,6 +16,10 @@
         {
             "id": "farmersdelight:rice_panicles",
             "required": false
+        },
+        {
+            "id": "supplementaries:flax",
+            "required": false
         }
     ]
 }
