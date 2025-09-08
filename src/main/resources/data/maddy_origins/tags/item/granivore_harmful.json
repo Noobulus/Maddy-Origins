@@ -17,6 +17,14 @@
         {
             "id": "brewinandchewin:cocoa_fudge",
             "required": false
+        },
+        {
+            "id": "rusticdelight:chocolate_coffee",
+            "required": false
+        },
+        {
+            "id": "rusticdelight:chocolate_pancake",
+            "required": false
         }
     ]
 }

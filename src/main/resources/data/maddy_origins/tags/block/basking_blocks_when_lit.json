@@ -1,6 +1,30 @@
 {
     "values": [
         "#maddy_origins:warm_blocks_when_lit",
-        "minecraft:redstone_lamp"
+        "minecraft:redstone_lamp",
+        "minecraft:copper_bulb",
+        "minecraft:exposed_bulb",
+        "minecraft:weathered_copper_bulb",
+        "minecraft:oxidized_copper_bulb",
+        "minecraft:waxed_copper_bulb",
+        "minecraft:waxed_exposed_bulb",
+        "minecraft:waxed_weathered_copper_bulb",
+        "minecraft:waxed_oxidized_copper_bulb",
+        {
+            "id": "y21:lamp",
+            "required": false
+        },
+        {
+            "id": "y21:fixture",
+            "required": false
+        },
+        {
+            "id": "y21:cage_lamp",
+            "required": false
+        },
+        {
+            "id": "y21:panel",
+            "required": false
+        }
     ]
 }

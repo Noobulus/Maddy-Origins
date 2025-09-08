@@ -11,6 +11,62 @@
         {
             "id": "mynethersdelight:nether_stove",
             "required": false
+        },
+        {
+            "id": "sootychimneys:brick_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:cobblestone_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:stone_brick_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:mud_brick_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:iron_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:copper_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:terracotta_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:dirty_brick_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:dirty_cobblestone_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:dirty_stone_brick_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:dirty_mud_brick_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:dirty_iron_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:dirty_copper_chimney",
+            "required": false
+        },
+        {
+            "id": "sootychimneys:dirty_terracotta_chimney",
+            "required": false
         }
     ]
 }
